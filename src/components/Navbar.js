@@ -39,7 +39,7 @@ export default function Navbar() {
             <Menu />
           </IconButton>
           <Typography variant="h6" className={classes.title} color="secondary">
-            <Link to="/">Shoestore</Link>
+            <Link to="/">Shoe Store</Link>
           </Typography>
           <Button color="secondary" to="/launch" component={Link}>
             Launch
