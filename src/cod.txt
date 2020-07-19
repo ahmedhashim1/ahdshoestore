@@ -1,0 +1,8 @@
+{/* {Object.entries(shoes).map(([slug, { name, img }]) => (
+        <li key={slug}>
+          <Link to={`/launch/${slug}`}>
+            <h2>{name}</h2>
+            <img src={img} alt={name} />
+          </Link>
+        </li>
+         */}
